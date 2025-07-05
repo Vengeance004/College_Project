@@ -1,0 +1,15 @@
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python**
+- **Streamlit**
+- **deep-translator**
+- **langdetect**
+- **PyMuPDF (fitz)** — PDF reading
+- **gTTS** — Text-to-speech
+- **ReportLab** — PDF Generation
+
+---
+
